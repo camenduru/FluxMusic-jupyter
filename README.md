@@ -8,7 +8,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FluxMusic-jupyter/blob/main/FluxMusic_jupyter.ipynb) | FluxMusic_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FluxMusic-jupyter/blob/main/FluxMusic_jupyter.ipynb) | FluxMusic_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/feizc/FluxMusic
