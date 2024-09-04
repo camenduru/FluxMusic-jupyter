@@ -18,5 +18,7 @@ https://arxiv.org/abs/2409.00587
 
 ### 🖼 Output
 
+https://github.com/user-attachments/assets/cc8c8b87-561f-4a83-a1b5-eaadbe24f2b0
+
 ### 🏢 Sponsor
 https://runpod.io
